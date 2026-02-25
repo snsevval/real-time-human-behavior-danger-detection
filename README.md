@@ -101,40 +101,7 @@ Pillow==10.0.1            # Görüntü işleme
 - **Ollama**: Yerel LLM sunucu (llama3.2:3b)
 - **Custom Utils**: Prompt engineering ve veri çıkarma
 
----
 
-##  Proje Yapısı
-
-```
-SecurityVision/
-├──  app.py                    # Flask ana sunucu
-├──  process.py                # Video analizi ve tehlike tespiti
-├──  llm.py                    # Ollama LLM entegrasyonu
-├──  utils.py                  # Veri çıkarma ve prompt üretimi
-├──  requirements.txt          # Python bağımlılıkları
-├──  .env                      # Konfigürasyon dosyası
-├──  uploads/                  # Yüklenen video dosyaları
-├──  outputs/                  # Analiz sonuçları
-│   └──  {task_id}/
-│       ├──  analyzed_video.mp4
-│       └──  alarm_analysis.db
-├──  templates/                # HTML şablonları
-│   ├──  index.html           # Giriş sayfası
-│   ├──  dashboard.html       # Ana kontrol paneli
-│   ├──  kayitlar.html        # Admin paneli
-│   └──  verify.html          # Email doğrulama
-├── 📂 static/                   # CSS, JS ve statik dosyalar
-│   ├──  style.css
-│   ├──  scripts.js
-│   ├──  kayitlar.js
-│   ├──  login.js
-│   ├──  verify.js
-│   └──  video/
-└── 📂 database/
-    └──  securityvision_users.db
-```
-
----
 
 ##  Hızlı Başlangıç
 
