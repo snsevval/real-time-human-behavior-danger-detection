@@ -10,7 +10,6 @@
 
 **Gerçek zamanlı tehlike tespiti, LLM destekli raporlama ve kapsamlı web paneli ile gelişmiş yapay zeka güvenlik analiz sistemi.**
 
-[ Hızlı Başlangıç](#-hızlı-başlangıç) • [📖 Özellikler](#-özellikler) • [🎯 Kullanım](#-kullanım-örnekleri) • [🔧 API](#-api-referansı)
 
 </div>
 
