@@ -31,7 +31,7 @@ Amaç, yalnızca nesne veya yüz tespiti yapmak değil; zamansal davranış değ
 
 Sistem aşağıdaki çok katmanlı veri akışı ile çalışır:
 
-Video Stream / Dosya  
+Video Stream / Dosya / Kamera
 ↓  
 Face Detection (DeepFace / RetinaFace)  
 ↓  
