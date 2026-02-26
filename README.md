@@ -14,7 +14,7 @@
 </div>
 
 ---
-## 📷 Sistem Görselleri
+##  Sistem Görselleri
 
 <div align="center">
   <img src="1771486502941.jpg" width="800"/>
