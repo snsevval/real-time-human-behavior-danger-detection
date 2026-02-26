@@ -14,6 +14,13 @@
 </div>
 
 ---
+## 📷 Sistem Görselleri
+
+<div align="center">
+  <img src="1771486502941.jpg" width="800"/>
+  <br><br>
+  <img src="1771486479802.jpg" width="800"/>
+</div>
 
 ##  Genel Bakış
 
