@@ -33,9 +33,9 @@ Sistem aşağıdaki çok katmanlı veri akışı ile çalışır:
 
 Video Stream / Dosya / Kamera
 
-↓  
+               ↓  
 Face Detection (DeepFace / RetinaFace)  
-↓  
+               ↓  
 Multi-Object Tracking (Norfair – Track ID üretimi)  
 ↓  
 Davranışsal Özellik Çıkarımı  
