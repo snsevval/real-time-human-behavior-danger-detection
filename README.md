@@ -1,4 +1,4 @@
-# SecurityVision - Yapay Zeka Destekli Güvenlik Analiz Sistemi
+# Gerçek Zamanlı İnsan Davranışlarına Dayalı Tehlikeli Durum Tespit Sistemi
 
 <div align="center">
 
@@ -33,7 +33,7 @@ SecurityVision, son teknoloji bilgisayar görme, makine öğrenmesi ve doğal di
 
 ##  Özellikler
 
-###  Video Analiz Motoru
+###  Analiz Motoru
 - **Çoklu Format Desteği**: MP4, AVI, MOV, MKV, WMV, FLV, WEBM (500MB'a kadar)
 - **Yüz Tespiti & Takibi**: RetinaFace + Norfair nesne takibi
 - **Duygu Analizi**: Gerçek zamanlı duygu tanıma (korku, öfke, üzüntü, vb.)
@@ -103,14 +103,6 @@ Pillow==10.0.1            # Görüntü işleme
 
 
 
-##  Hızlı Başlangıç
-
-### 1️ Sistem Gereksinimleri
-
-- **Python**: 3.8 veya üzeri
-- **RAM**: En az 8GB (AI modelleri için)
-- **Disk**: 5GB boş alan
-- **GPU**: İsteğe bağlı (CUDA destekli)
 
 ### 2️ Kurulum
 
@@ -175,17 +167,6 @@ python app.py
 
 ---
 
-##  Kullanım Örnekleri
-
-###  Video Dosyası Analizi
-
-1. **Giriş Yapın**: Email adresinizi girin → 6 haneli doğrulama kodunu email'den alın
-2. **Video Yükleyin**: Drag & drop veya dosya seçici ile video yükleyin
-3. **Analizi Başlatın**: "Analizi Başlat" butonuna basın
-4. **Sonuçları İzleyin**: Gerçek zamanlı ilerleme ve alarm bilgileri
-5. **Rapor İndirin**: Analiz tamamlandığında video, database ve LLM raporu indirin
-
-###  Telefon Kamerası (Real-time)
 
 #### Android (IP Webcam):
 ```bash
